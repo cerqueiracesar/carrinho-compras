@@ -15,6 +15,9 @@ Uma aplicação simples de carrinho de compras desenvolvida em HTML, CSS e JavaS
 - **CSS3**: Estilização da interface.
 - **JavaScript**: Lógica para interação e manipulação de dados.
 
+🕸️ ACESSE: 
+[Carrinho de Compras](https://cerqueiracesar.github.io/carrinho-compras/)
+
 ## Como Usar ▶️
 1. Faça o download dos arquivos do projeto.
 2. Certifique-se de que todos os arquivos estão na mesma pasta:
